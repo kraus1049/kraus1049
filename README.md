@@ -2,7 +2,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=kraus1049&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/kraus1049)
 
-### Introduction
+### 🌟 Introduction
 ```python
 #!usr/bin/python
 from Earth import all_of_humanity
@@ -36,15 +36,15 @@ me.introduce_myself(all_of_humanity)
 ![github-stats](https://github-readme-stats.vercel.app/api?username=kraus1049&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kraus1049&layout=compact&theme=vue)
 
-### How to reach me
+### 📬 How to reach me
 [![Gmail_badge](https://img.shields.io/badge/-kraus1049@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kraus1049@gmail.com)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109353899464750558?domain=https%3A%2F%2Ffedibird.com&style=for-the-badge&logo=mastdon&labelColor=6364FF)](https://fedibird.com/@noritama_cool)
 
-### Outputs
+### 🖨️ Outputs
 [![Articles](https://badgen.org/img/qiita/kraus1049/articles?style=for-the-badge)](https://qiita.com/kraus1049)
 [![Articles](https://badgen.org/img/zenn/kraus1049/articles?style=for-the-badge)](https://zenn.dev/kraus1049)
 
-### I'm currently learning
+### 🌱 I'm currently learning
 <p align="left">
 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -65,7 +65,7 @@ me.introduce_myself(all_of_humanity)
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
